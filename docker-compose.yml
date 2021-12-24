@@ -13,8 +13,8 @@ services:
       USE_IPC: "true"
       USE_WEB: "true"
 
-      WEB_USERNAME: "admin"
-      WEB_PASSWORD: ""
+      WEB_USERNAME: "yorkzhao"
+      WEB_PASSWORD: "Xiongda6"
       WEB_SECRET: ""
 
 
