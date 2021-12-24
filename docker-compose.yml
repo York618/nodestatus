@@ -8,6 +8,7 @@ services:
       PORT: 35601
       VERBOSE: "false"
       THEME: "hotaru-theme"
+      DATABASE: "mysql://root:jMggnALJplK7J2TF5Shv@containers-us-west-23.railway.app:6327/railway"
 
       USE_PUSH: "true"
       USE_IPC: "true"
